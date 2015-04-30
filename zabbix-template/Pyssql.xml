@@ -30,7 +30,7 @@
                     <snmp_community/>
                     <snmp_oid/>
                     <key>pyssql[{$USERNAME},{$PASSWORD},{$ADDRESS},{$PORT},{$DATABASE},show_databases]</key>
-                    <delay>600</delay>
+                    <delay>3600</delay>
                     <status>0</status>
                     <allowed_hosts/>
                     <snmpv3_contextname/>
